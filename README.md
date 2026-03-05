@@ -34,12 +34,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=FahadRamxan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=6366F1" height="165" alt="Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FahadRamxan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366F1" height="165" alt="Top Langs" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=FahadRamxan&show_icons=true&hide_border=true&bg_color=F5F3FF&title_color=6366F1&icon_color=6366F1&text_color=4F46E5" height="165" alt="Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FahadRamxan&layout=compact&hide_border=true&bg_color=F5F3FF&title_color=6366F1&text_color=4F46E5" height="165" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=FahadRamxan&theme=radical&hide_border=true&background=0d1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" height="165" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=FahadRamxan&hide_border=true&background=F5F3FF&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&theme=github-light" height="165" alt="Streak" />
 </p>
 
 ---
@@ -80,7 +80,7 @@
 
 ### 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FahadRamxan&theme=react-dark&hide_border=true&area=true&color=6366F1" width="100%" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FahadRamxan&theme=github-light&hide_border=true&area=true&color=6366F1&bg_color=F5F3FF" width="100%" alt="Contribution graph" />
 
 ---
 
