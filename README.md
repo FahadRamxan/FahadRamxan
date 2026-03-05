@@ -17,11 +17,18 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -32,12 +39,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahadRamxan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=6366F1" height="165" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadRamxan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366F1" height="165" alt="Top Langs" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=FahadRamxan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=6366F1" height="165" alt="Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FahadRamxan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366F1" height="165" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahadRamxan&theme=radical&hide_border=true&background=0d1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" height="165" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=FahadRamxan&theme=radical&hide_border=true&background=0d1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" height="165" alt="Streak" />
 </p>
 
 ---
@@ -48,10 +55,11 @@
 <tr>
 <td width="50%">
 
-- 🔭 **Currently working on** — _your cool projects_
-- 🌱 **Learning** — _new tech & best practices_
-- 👯 **Looking to collaborate on** — _open source & ideas_
-- 💬 **Ask me about** — _web dev, coding, or coffee_
+- 🔭 **Currently working on** — _ML/NLP, APIs & full-stack projects_
+- 🌱 **Learning** — _Hugging Face, LangChain & modern AI tooling_
+- 🤖 **Into** — _automation, chatbots & building CRMs_
+- 👯 **Looking to collaborate on** — _AI apps, open source & CRM tools_
+- 💬 **Ask me about** — _Python, React, FastAPI, or chatbots_
 - 📫 **Reach me** — _links below_
 - ⚡ **Fun fact** — _I turn coffee into code_
 
@@ -75,8 +83,8 @@
 
 ---
 
-<!-- Snake animation - eats your contribution graph -->
-<img src="https://raw.githubusercontent.com/FahadRamxan/FahadRamxan/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+<!-- Snake animation - runs from Actions > Generate Snake (once) -->
+<img src="https://raw.githubusercontent.com/FahadRamxan/FahadRamxan/main/assets/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=80&section=footer" width="100%" alt="Footer" />
