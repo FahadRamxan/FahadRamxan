@@ -6,10 +6,11 @@
 <!-- Wave animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header&text=Fahad+Ramxan&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%" alt="Header" />
 
-<!-- Profile views & social badges -->
+<!-- Live stats from GitHub API only -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FahadRamxan&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=6366F1&label=Followers&query=followers&url=https://api.github.com/users/FahadRamxan&style=flat-square" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FFahadRamxan&label=Followers&query=followers&color=6366F1&style=flat-square" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FFahadRamxan&label=Following&query=following&color=6366F1&style=flat-square" alt="Following" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FFahadRamxan&label=Public%20Repos&query=public_repos&color=6366F1&style=flat-square" alt="Public repos" />
 </p>
 
 ---
@@ -27,19 +28,6 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=FahadRamxan&show_icons=true&hide_border=true&bg_color=F5F3FF&title_color=6366F1&icon_color=6366F1&text_color=4F46E5" height="165" alt="Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FahadRamxan&layout=compact&hide_border=true&bg_color=F5F3FF&title_color=6366F1&text_color=4F46E5" height="165" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=FahadRamxan&hide_border=true&background=F5F3FF&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&theme=github-light" height="165" alt="Streak" />
 </p>
 
 ---
@@ -75,12 +63,6 @@
 **Portfolio:** [fahadramxan.github.io/Fahad-Ramzan-Portfolio](https://fahadramxan.github.io/Fahad-Ramzan-Portfolio/)
 
 **Matrix AE (Company):** [Website](https://sheheryarramzan.github.io/MatrixAE-Website/) · [LinkedIn](https://www.linkedin.com/company/matrixx-ae)
-
----
-
-### 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FahadRamxan&theme=github-light&hide_border=true&area=true&color=6366F1&bg_color=F5F3FF" width="100%" alt="Contribution graph" />
 
 ---
 
