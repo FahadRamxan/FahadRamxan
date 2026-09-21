@@ -31,7 +31,7 @@
 <div align="center">
 
 <img height="180" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=FahadRamxan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=FFB300&icon_color=FF8C00&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=FahadRamxan&layout=compact&langs_count=8&hide_border=true&bg_color=0a0a0a&title_color=FFB300&text_color=c9d1d9" alt="Most used languages" />
+<img height="180" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=FahadRamxan&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=0a0a0a&title_color=FFB300&text_color=c9d1d9" alt="Most used languages" />
 
 </div>
 
