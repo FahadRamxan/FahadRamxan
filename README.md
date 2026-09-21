@@ -113,11 +113,18 @@ class FahadRamzan:
 
 ---
 
+<!--
+  📈 CONTRIBUTION SNAKE — ready to enable once GitHub Actions is unblocked.
+  The workflow at .github/workflows/snake.yml generates the animation and
+  publishes it to the `output` branch. It currently fails because the account
+  is locked for a billing issue. After resolving billing:
+    1. Actions tab → "Generate Snake Animation" → Run workflow (wait for green)
+    2. Uncomment the block below.
+
 ### 📈 Contribution Snake
 
 <div align="center">
 
-<!-- Generated daily by .github/workflows/snake.yml → committed to the `output` branch -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FahadRamxan/FahadRamxan/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FahadRamxan/FahadRamxan/output/github-snake.svg" />
@@ -127,6 +134,8 @@ class FahadRamzan:
 </div>
 
 ---
+-->
+
 
 ### 🚀 Featured Projects
 
